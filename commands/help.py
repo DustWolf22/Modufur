@@ -3,7 +3,7 @@ import lightbulb
 
 plugin = lightbulb.Plugin("help")
 
-
+#Command displays a simple text box that describes the bot's commands to the user. 
 class Help(lightbulb.BaseHelpCommand):
     pass
 
